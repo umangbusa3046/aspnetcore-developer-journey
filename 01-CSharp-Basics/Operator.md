@@ -279,7 +279,7 @@ Example:
 
 ## Q3. Difference between && and || ?
 
-| && | || |
+| && | \|\| |
 |---|---|
 | Both conditions must be true | At least one condition must be true |
 
