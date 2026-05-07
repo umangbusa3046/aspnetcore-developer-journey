@@ -23,11 +23,11 @@ Similarly, a variable stores specific data.
 
 ```csharp
 datatype variableName = value;
----
+```
 
 # 6. Code Example
 
-````md
+
 ## Example
 
 ```csharp
@@ -36,14 +36,14 @@ int age = 21;
 
 Console.WriteLine(name);
 Console.WriteLine(age);
----
+```
 
 # 7. Output
 
-````md
+
 ## Output
 
-```txt
+```
 Umang
 21
 ```
