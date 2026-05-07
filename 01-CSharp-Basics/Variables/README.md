@@ -25,7 +25,7 @@ Similarly, a variable stores specific data.
 datatype variableName = value;
 ```
 
-# 6. Code Example
+#  Code Example
 
 
 ## Example
@@ -38,7 +38,7 @@ Console.WriteLine(name);
 Console.WriteLine(age);
 ```
 
-# 7. Output
+#  Output
 
 
 ## Output
